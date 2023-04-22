@@ -69,7 +69,7 @@ def button2_clicked():
 if __name__ == '__main__':
     # rootの作成
     root = Tk()
-    root.title('FileReference Tool')
+    root.title('')
     root.resizable(False, False)
 
     # Frame1の作成
